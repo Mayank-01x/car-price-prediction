@@ -3,6 +3,8 @@
 
 This is a Machine Learning-powered web application that predicts car prices based on features like **engine size** and **city mileage**. Built with **Python**, **Flask**, and a pre-trained regression model.
 
+[![Render](https://img.shields.io/badge/Deployed%20on-Render-00c7b7?logo=render&logoColor=white)](https://car-price-prediction-830k.onrender.com)
+
 ---
 
 ## 📦 Project Structure
